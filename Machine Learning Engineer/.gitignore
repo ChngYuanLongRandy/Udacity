@@ -1,1 +1,8 @@
 Exercise-wines/
+# ignore all virtual env folders 
+.*/
+
+# data file
+data.zip
+__MACOSX/
+
