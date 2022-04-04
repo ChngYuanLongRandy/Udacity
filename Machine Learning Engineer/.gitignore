@@ -5,4 +5,4 @@ Exercise-wines/
 # data file
 data.zip
 __MACOSX/
-
+__pycache__
