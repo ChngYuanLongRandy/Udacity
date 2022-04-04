@@ -1,0 +1,6 @@
+# python runtime = 3.9.9
+
+numpy
+sklearn
+pandas
+matplotlib
